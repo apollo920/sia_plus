@@ -3,16 +3,16 @@
 ## Para criar este inicio de projeto foi utilizado os seguintes comandos (conforme a documentação https://cookiecutter-django.readthedocs.io/en/latest/2-local-development/developing-locally.html)
 
 ## Instação do cookiecutter
-### pip install cookiecutter
+    pip install cookiecutter
 
 ## criação do virtual env path 
-### python -m venv virtual_env_path
+    python -m venv virtual_env_path
 
 ## Ativar o venv que acabou de criar
-### virtual_env_path/Scripts/Activate
+    virtual_env_path/Scripts/Activate
 
 ## Gerar um novo projeto cookiecutter-django
-### cookiecutter gh:cookiecutter/cookiecutter-django
+    cookiecutter gh:cookiecutter/cookiecutter-django
 
 ## o cookiecutter foi configurado da seguinte forma 
 
